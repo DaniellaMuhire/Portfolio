@@ -9,4 +9,5 @@ The projects range from creating interactive websites to using machine learning 
 Thank you
 
 [Portfolio](https://daniellamuhire.github.io/Portfolio/)
-<img width="1440" alt="Screen Shot 2022-11-09 at 3 46 51 PM" src="https://user-images.githubusercontent.com/77806210/200959030-81746412-1e4d-47aa-aa71-8602ced01feb.png">
+<img width="1430" alt="Screen Shot 2022-11-18 at 11 15 35 AM" src="https://user-images.githubusercontent.com/77806210/202774887-47af9656-d278-4be0-a788-b4851a8b6b27.png">
+
